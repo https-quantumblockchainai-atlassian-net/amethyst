@@ -1,0 +1,13 @@
+name: amethyst
+id: ari:cloud:compass:2261fd15-e484-47df-a3c1-3945f31f5015:component/e50c4fd7-4bca-45fe-87b2-62835b87da68/f57585ec-aacc-41d4-87e6-536a47ef5990
+description: Amethyst is a Rails inspired web-framework for Crystal language
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
